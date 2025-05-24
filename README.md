@@ -27,4 +27,3 @@ Analysis Notebooks
 Software
 SMR Portal - https://yanglab.westlake.edu.cn/smr-portal/
 Locuszoom plots -  http://locuszoom.org/
-![image](https://github.com/user-attachments/assets/5d685c30-b24e-45a2-9161-0fbc4e0aab36)

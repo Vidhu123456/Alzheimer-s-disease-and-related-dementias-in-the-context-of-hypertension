@@ -1,6 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/c963ac1b-e6e6-41a3-8c21-b9d9175d4ea2)
-![image](https://github.com/user-attachments/assets/7e57e27c-c3e8-439a-ba07-e922a17e16b6)
+![figure1](https://github.com/Vidhu123456/Alzheimer-s-disease-and-related-dementias-in-the-context-of-hypertension/blob/main/Figures/Figure1.png)
 
 
 Analysis Notebooks

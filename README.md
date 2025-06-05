@@ -23,6 +23,7 @@ The discovery database used for the study was “UK Biobank” and the replicati
 -   Notebook4_Conditional_model.ipynb: We applied conditional model between _APOE__genotype and _CRIM1_.
 
 -   Notebook4_Interaction_model.ipynb: We applied interaction model between _APOE__genotype and _CRIM1._
+  
 
 
 | Software                          | Version(s)     | Resource URL                                                  | RRID              | Notes                                                                          |

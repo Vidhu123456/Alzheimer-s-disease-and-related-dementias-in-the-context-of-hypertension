@@ -25,6 +25,15 @@ The discovery database used for the study was “UK Biobank” and the replicati
 -   Notebook4_Interaction_model.ipynb: We applied interaction model between _APOE__genotype and _CRIM1._
 
 
+| Software                          | Version(s)     | Resource URL                                                  | RRID              | Notes                                                                          |
+|-----------------------------------|----------------|---------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------|
+| SMR Portal                        | 1.0            | https://yanglab.westlake.edu.cn/smr-portal/                   | RRID:SCR_026042   | Used for QTL analysis                                                          |
+| Locuszoom plots                   | 0.14.0         | http://locuszoom.org/                                         | RRID:SCR_009257   | R package; used for fine-mapping                                                |
+| PheWeb UK Biobank Tophat          | 1.3.16         | https://pheweb.org/UKB-TOPMed/about                            | N/A               | PheWAS visualization tool                                                      |
+| METAL                             | 2020-05-05     | http://csg.sph.umich.edu//abecasis/Metal/                      | RRID:SCR_002013   | Used for meta-analyses                                                         |
+| PLINK                             | 1.7 and 1.9 and 2.0 | http://www.nitrc.org/projects/plink                         | RRID:SCR_001757   | Used for genetic analyses                                                      |
+| Python Programming Language       | 3.8 and 3.9    | http://www.python.org/                                        | RRID:SCR_008394   | pandas; numpy; seaborn; matplotlib; statsmodel; used for data wrangling/analyses |
+| R Project for Statistical Computing | 4.2          | http://www.r-project.org/                                     | RRID:SCR_001905   | tidyverse; dplyr; tidyr; ggplot; data.table; used for data wrangling/analyses   |
 
 
 

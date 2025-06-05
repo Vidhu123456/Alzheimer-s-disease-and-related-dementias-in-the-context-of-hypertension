@@ -1,3 +1,12 @@
+# **Investigating the genetic landscape of Alzheimer's disease and related dementias in the context of hypertension**
+
+**Summary**
+This is the online repository for the manuscript titled **_"_** **_Investigating the genetic landscape of Alzheimer's disease and related dementias in the context of hypertension"_**. This study represents the first and largest genome-wide assessment (GWAS) of Alzheimer’s disease and related dementia in context of hypertension.
+
+**Data Statement**
+The discovery database used for the study was “UK Biobank” and the replication database was “All of Us”. Further, meta-analysis and post analysis was done combining both the datasets.
+
+**Workflow Diagram**
 
 ![figure1](https://github.com/Vidhu123456/Alzheimer-s-disease-and-related-dementias-in-the-context-of-hypertension/blob/main/Figures/Figure1.png)
 

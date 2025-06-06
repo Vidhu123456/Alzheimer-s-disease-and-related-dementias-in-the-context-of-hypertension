@@ -14,15 +14,18 @@ The discovery database used for the study was “UK Biobank” and the replicati
 
 -   Languages: Python, bash, and R
 
--   Notebook1_HT_DEM_remove_PD_VD_FTD_CJD_Hu_Vs_HT_AoU_GWAS.ipynb: We extracted data from the “All of Us” Research Program, identifying 1,295 cases with essential hypertension and co-occurring dementia, after excluding individuals with Parkinson’s disease, vascular dementia, frontotemporal dementia, Huntington’s disease, or Creutzfeldt-Jakob disease. A total of 45,752 individuals with essential hypertension but without any neurodegenerative conditions were included as controls and ran genome-wide association analysis using PLINK.2.0.
+-   Notebook1_HT_DEM_remove_PD_VD_FTD_CJD_Hu_Vs_HT_AoU_GWAS.ipynb: We extracted data from the “All of Us” Research Program (Replication Phase), with 1,295 cases having phenotype essential hypertension and co-occurring dementia, after excluding individuals with Parkinson’s disease, vascular dementia, frontotemporal dementia, Huntington’s disease, or Creutzfeldt-Jakob disease and 45,752 controls having phenotype essential hypertension but without any neurodegenerative conditions were included as controls and ran the Genome-wide association studies (GWAS) using PLINK.2.0.
 
--   Notebook2_HT_DEM_remove_PD_VD_FTD_CJD_Hu_Vs_HT_UKB_GWAS.ipynb: We extracted data from the “UK Biobank”, identifying 3,290 cases with essential hypertension and co-occurring dementia, after excluding individuals with Parkinson’s disease, vascular dementia, frontotemporal dementia, Huntington’s disease, or Creutzfeldt-Jakob disease. A total of 87,524 individuals with essential hypertension but without any neurodegenerative conditions were included as controls and ran genome-wide association analysis using PLINK.2.0.
+-   Notebook2_HT_DEM_remove_PD_VD_FTD_CJD_Hu_Vs_HT_UKB_GWAS.ipynb: We extracted data from the “UK Biobank” (Discovery Phase), with 3, 290 cases having phenotype essential hypertension and co-occurring dementia, after excluding individuals with Parkinson’s disease, vascular dementia, frontotemporal dementia, Huntington’s disease, or Creutzfeldt-Jakob disease and 87, 524 controls having phenotype essential hypertension but without any neurodegenerative conditions were included as controls and ran the Genome-wide association studies (GWAS) using PLINK.2.0.
 
 -   Notebook3_metal. sh: We meta-analyzed all the samples using summary statistics from “All of Us” and “UK Biobank.”
 
 -   Notebook4_Conditional_model.R: We applied conditional model between _APOE__genotype and _CRIM1_.
 
 -   Notebook5_Interaction_model.R: We applied interaction model between _APOE__genotype and _CRIM1._
+
+-   Notebook6_HT+Dem_Remove_PD_FTD_VD_Vs_HT_sbp_covariate.ipynb: We re-ran the GWAS by adjusting with systolic blood pressure as a covariate.
+
   
 
 

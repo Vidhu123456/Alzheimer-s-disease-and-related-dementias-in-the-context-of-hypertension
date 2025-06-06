@@ -22,7 +22,7 @@ The discovery database used for the study was “UK Biobank” and the replicati
 
 -   Notebook4_Conditional_model.R: We applied conditional model between _APOE__genotype and _CRIM1_.
 
--   Notebook4_Interaction_model.R: We applied interaction model between _APOE__genotype and _CRIM1._
+-   Notebook5_Interaction_model.R: We applied interaction model between _APOE__genotype and _CRIM1._
   
 
 

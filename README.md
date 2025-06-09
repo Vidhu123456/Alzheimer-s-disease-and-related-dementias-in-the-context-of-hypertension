@@ -26,7 +26,7 @@ The discovery database used for the study was “UK Biobank” and the replicati
 
 -   Notebook6_HT+Dem_Remove_PD_FTD_VD_Vs_HT_UKB_GWAS_SBP_covariate.ipynb: We re-ran the GWAS by adjusting with systolic blood pressure as a covariate.
 
--   Notebook6_HT+Dem_Remove_PD_FTD_VD_Vs_HT_UKB_GWAS_APOE_status.ipynb: We re-ran the GWAS by adjusting with APOE status as a covariate.
+-   Notebook6_HT+Dem_Remove_PD_FTD_VD_Vs_HT_UKB_GWAS_Genotype_APOE.ipynb: We re-ran the GWAS by adjusting with APOE status as a covariate.
 
   
 

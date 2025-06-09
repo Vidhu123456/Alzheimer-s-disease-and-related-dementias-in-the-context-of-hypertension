@@ -24,7 +24,9 @@ The discovery database used for the study was “UK Biobank” and the replicati
 
 -   Notebook5_Interaction_model.R: We applied interaction model between _APOE__genotype and _CRIM1._
 
--   Notebook6_HT+Dem_Remove_PD_FTD_VD_Vs_HT_sbp_covariate.ipynb: We re-ran the GWAS by adjusting with systolic blood pressure as a covariate.
+-   Notebook6_HT+Dem_Remove_PD_FTD_VD_Vs_HT_UKB_GWAS_SBP_covariate.ipynb: We re-ran the GWAS by adjusting with systolic blood pressure as a covariate.
+
+-   Notebook6_HT+Dem_Remove_PD_FTD_VD_Vs_HT_UKB_GWAS_APOE_status.ipynb: We re-ran the GWAS by adjusting with APOE status as a covariate.
 
   
 
